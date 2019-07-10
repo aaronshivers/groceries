@@ -1,8 +1,9 @@
 import React from 'react'
+import GroceryList from './GroceryList'
 
 const DashboardPage = () => (
   <div>
-    Dashboard Page Content
+    <GroceryList />
   </div>
 )
 
